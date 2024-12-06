@@ -1,2 +1,2 @@
 # Start up page
-![alt text](image.png)
+![alt text](image-1.png)
